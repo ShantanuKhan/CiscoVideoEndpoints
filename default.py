@@ -1,1 +1,4 @@
+class default:
+    
+
 print("hello")
